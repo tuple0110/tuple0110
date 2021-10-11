@@ -2,7 +2,7 @@
 #### I am a student developer in SJS
 ![I am a student developer in SJS](https://cdn.discordapp.com/avatars/386031770216300555/90a36d739b1c15755335471c8613c959.webp?size=160)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+undefined
 
 Skills: JS / Python / HTML & CSS / Unreal Engine
 

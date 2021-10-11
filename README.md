@@ -20,6 +20,4 @@ Skills: JS / Python / HTML & CSS / Unreal Engine
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuple0110)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tuple0110&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tuple0110)  
  

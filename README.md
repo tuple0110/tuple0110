@@ -2,8 +2,8 @@
 #### I am a student developer in SJS
 ![I am a student developer in SJS](https://cdn.discordapp.com/avatars/386031770216300555/90a36d739b1c15755335471c8613c959.webp?size=160)
 
-Often used techs
 Skills: JS / Python / HTML & CSS / Unreal Engine
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
 
 - 🔭 I’m currently working on Discord Cooperation Tool, **TeamBitWorkers** 
 - 🌱 I’m currently learning about Machine Learning and lots of mathematical stuffs... **3b1b is the best** 
